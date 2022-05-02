@@ -1,0 +1,20 @@
+{
+  "name": "greenrock",
+  "version": "1.0.0",
+  "description": "Portfolio ",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "greenrock",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
